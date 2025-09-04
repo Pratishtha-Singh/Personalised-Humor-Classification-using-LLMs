@@ -1,0 +1,41 @@
+{
+  "methodology": "Comparison of Text-only vs Demographics-only vs Combined features",
+  "results": [
+    {
+      "Split": "Cold Start User",
+      "Text-Only": "0.540",
+      "Demographics-Only": "0.326",
+      "Combined": "0.588",
+      "Calibrated": "0.491",
+      "Text Contribution": "0.215",
+      "Demo Contribution": "0.326",
+      "Synergy": "0.048"
+    },
+    {
+      "Split": "New Joke",
+      "Text-Only": "0.283",
+      "Demographics-Only": "0.276",
+      "Combined": "0.327",
+      "Calibrated": "0.311",
+      "Text Contribution": "0.007",
+      "Demo Contribution": "0.276",
+      "Synergy": "0.044"
+    },
+    {
+      "Split": "Random",
+      "Text-Only": "0.559",
+      "Demographics-Only": "0.261",
+      "Combined": "0.595",
+      "Calibrated": "0.544",
+      "Text Contribution": "0.298",
+      "Demo Contribution": "0.261",
+      "Synergy": "0.036"
+    }
+  ],
+  "key_findings": {
+    "text_avg_f1": 0.4606666666666667,
+    "demo_avg_f1": 0.2876666666666667,
+    "combined_avg_f1": 0.5033333333333333,
+    "text_advantage": 0.17300000000000004
+  }
+}

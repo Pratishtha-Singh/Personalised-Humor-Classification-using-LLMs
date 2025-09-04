@@ -1,3 +1,18 @@
+# Files to exclude from upload
+backup/
+humor_dashboard_clean.py
+model_comparison.ipynb
+novel_enhanced_model.ipynb
+
+# Large model files that exceed GitHub's size limits
+best_distilbert_model.pth
+*.pth
+*.pt
+dnnl.lib
+torch_cpu.dll
+cost_sensitive_checkpoints/
+novelty_model_frozen_artifacts/*/best_model_checkpoint.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

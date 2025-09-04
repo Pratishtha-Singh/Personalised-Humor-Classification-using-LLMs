@@ -1,0 +1,167 @@
+respondent_id,age,age_bin,gender,ethnicity,country_1,country_2,joke_id,joke_text,response,raw_response
+resp_27,63,55+,Male,White / Caucasian,USA,USA,s29,"A bolt of lightning contains enough energy to toast 100,000 slices of bread.",not_funny,No
+resp_7,24,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s10,"The inventor of the frisbee was turned into a frisbee. When he died, his ashes were molded into frisbees for his family and friends.",not_funny,No
+resp_32,52,46-55,Female,White / Caucasian,UK,UK,s9,Light travels faster than sound. That’s why some people appear bright until you hear them speak.,not_funny,No
+resp_50,45,46-55,Female,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s9,Light travels faster than sound. That’s why some people appear bright until you hear them speak.,funny,Yes
+resp_39,40,36-45,Non-binary,White / Caucasian,UK,Ireland,s13,"I asked the barber for a ‘short back and sides’, he handed me a copy of The Sun and turned on Coronation Street.",funny,Yes
+resp_30,38,36-45,Female,White / Caucasian,UK,UK,s19,Cleopatra lived closer to the invention of the iPhone than to the building of the Great Pyramid.,not_funny,No
+resp_37,31,26-35,Male,Southeast Asian,Malaysia,Malaysia,s8,"In India, footpaths are for two things: walking and Salman Khan's driving practice.",not_funny,No
+resp_38,59,55+,Female,Black / African,South Africa,South Africa,s13,"I asked the barber for a ‘short back and sides’, he handed me a copy of The Sun and turned on Coronation Street.",dont_understand,I didn't understand the statement
+resp_24,22,18-25,Male,Southeast Asian,Singapore,Malaysia,s20,"I asked the librarian if the library had books on paranoia. She whispered, “They’re right behind you.”",not_funny,No
+resp_12,24,18-25,Female,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s5,"Well its settled then, it's not nearly as fun to hangout in a coffee shop as much as it is in a bar.",funny,Yes
+resp_30,38,36-45,Female,White / Caucasian,UK,UK,s29,"A bolt of lightning contains enough energy to toast 100,000 slices of bread.",not_funny,No
+resp_16,19,18-25,Male,Mixed / Multiple ethnic backgrounds,England,England,s29,"A bolt of lightning contains enough energy to toast 100,000 slices of bread.",not_funny,No
+resp_2,25,26-35,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s9,Light travels faster than sound. That’s why some people appear bright until you hear them speak.,funny,Yes
+resp_37,31,26-35,Male,Southeast Asian,Malaysia,Malaysia,s10,"The inventor of the frisbee was turned into a frisbee. When he died, his ashes were molded into frisbees for his family and friends.",not_funny,No
+resp_39,40,36-45,Non-binary,White / Caucasian,UK,Ireland,s1,"Honey never spoils. Archaeologists have found 3,000-year-old honey in Egyptian tombs that’s still edible.",not_funny,No
+resp_42,50,46-55,Male,White / Caucasian,USA,USA,s6,Went on a date to Wetherspoons. Either I’ve hit rock bottom… or I’ve peaked financially.,not_funny,No
+resp_26,25,26-35,Male,Mixed / Multiple,UK,UK,s8,"In India, footpaths are for two things: walking and Salman Khan's driving practice.",dont_understand,I didn't understand
+resp_14,25,26-35,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",United Kingdom,pakistan,s14,"Octopuses have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",not_funny,No
+resp_40,24,18-25,Male,South Asian,India,India,s16,A statistical correlation without causation is simply a misleading relationship.,not_funny,No
+resp_22,32,26-35,Male,White / Caucasian,Australia,Australia,s7,"Q: I'm two months pregnant now. When will my baby move?
+A: With any luck, right after he finishes college.",not_funny,No
+resp_36,29,26-35,Female,White / Caucasian,Canada,Canada,s24,The heart of a blue whale is so big that a human can swim through its arteries.,not_funny,No
+resp_38,59,55+,Female,Black / African,South Africa,South Africa,s11,How do you know if a vampire is unwell? Because he'll be coffin.,funny,Yes
+resp_5,20,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s13,"I asked the barber for a ‘short back and sides’, he handed me a copy of The Sun and turned on Coronation Street.",funny,Yes
+resp_21,24,18-25,Female,Hispanic / Latino,USA,USA,s24,The heart of a blue whale is so big that a human can swim through its arteries.,not_funny,No
+resp_9,24,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s27,The fingerprints of a koala are so close to humans’ that they can taint crime scenes.,not_funny,No
+resp_37,31,26-35,Male,Southeast Asian,Malaysia,Malaysia,s27,The fingerprints of a koala are so close to humans’ that they can taint crime scenes.,not_funny,No
+resp_34,27,26-35,Female,Middle Eastern,Turkey,Turkey,s2,Next Halloween costume idea: CEO and Head of HR.,funny,Yes
+resp_46,35,36-45,Male,Black / African,Nigeria,Nigeria,s11,How do you know if a vampire is unwell? Because he'll be coffin.,not_funny,No
+resp_33,30,26-35,Male,East Asian,South Korea,South Korea,s2,Next Halloween costume idea: CEO and Head of HR.,not_funny,No
+resp_50,45,46-55,Female,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s17,"Two wrongs don’t make a right, take your parents as an example.",not_funny,No
+resp_20,28,26-35,Male,Black / African,South Africa,South Africa,s7,"Q: I'm two months pregnant now. When will my baby move?
+A: With any luck, right after he finishes college.",not_funny,No
+resp_18,61,55+,Male,White / Caucasian,Canada,Canada,s2,Next Halloween costume idea: CEO and Head of HR.,not_funny,No
+resp_34,27,26-35,Female,Middle Eastern,Turkey,Turkey,s24,The heart of a blue whale is so big that a human can swim through its arteries.,not_funny,No
+resp_8,24,18-25,Female,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s30,I told my computer I needed a break. Now it keeps sending me vacation ads.,not_funny,No
+resp_28,58,55+,Female,White / Caucasian,Australia,New Zealand,s9,Light travels faster than sound. That’s why some people appear bright until you hear them speak.,funny,Yes
+resp_47,24,18-25,Female,South Asian,UAE,Pakistan,s5,"Well its settled then, it's not nearly as fun to hangout in a coffee shop as much as it is in a bar.",funny,Yes
+resp_34,27,26-35,Female,Middle Eastern,Turkey,Turkey,s25,"BOSS: tell me about Susanne
+ME: *takes a drag of cigarette* ah, the one that got away
+BOSS: you're a zoo keeper none of them should get away.",funny,Yes
+resp_2,25,26-35,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s11,How do you know if a vampire is unwell? Because he'll be coffin.,not_funny,No
+resp_16,19,18-25,Male,Mixed / Multiple ethnic backgrounds,England,England,s28,"Q: Should I have a baby after 35?
+A: No, 35 children is enough.",funny,Yes
+resp_10,23,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s19,Cleopatra lived closer to the invention of the iPhone than to the building of the Great Pyramid.,not_funny,No
+resp_7,24,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s17,"Two wrongs don’t make a right, take your parents as an example.",funny,Yes
+resp_26,25,26-35,Male,Mixed / Multiple,UK,UK,s17,"Two wrongs don’t make a right, take your parents as an example.",funny,Yes
+resp_3,21,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s18,"I took my 8-year-old to the office on Take Your Child to Work Day. As we were walking around, she starting crying & getting very cranky, so I asked her what was wrong. As my coworkers gathered round, she sobbed, 'Daddy, where are all the clowns that you said you worked with?'",funny,Yes
+resp_29,53,46-55,Male,Black / African,Nigeria,Nigeria,s2,Next Halloween costume idea: CEO and Head of HR.,not_funny,No
+resp_28,58,55+,Female,White / Caucasian,Australia,New Zealand,s18,"I took my 8-year-old to the office on Take Your Child to Work Day. As we were walking around, she starting crying & getting very cranky, so I asked her what was wrong. As my coworkers gathered round, she sobbed, 'Daddy, where are all the clowns that you said you worked with?'",funny,Yes
+resp_26,25,26-35,Male,Mixed / Multiple,UK,UK,s12,There are more possible iterations of a game of chess than there are atoms in the observable universe.,not_funny,No
+resp_31,47,46-55,Male,Hispanic / Latino,USA,USA,s14,"Octopuses have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",not_funny,No
+resp_29,53,46-55,Male,Black / African,Nigeria,Nigeria,s4,"Shake it, “the container cam”.",not_funny,No
+resp_31,47,46-55,Male,Hispanic / Latino,USA,USA,s23,"Bananas are berries, but strawberries aren’t. Botanically speaking, bananas qualify as berries, but strawberries do not.",not_funny,No
+resp_48,32,26-35,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",Uk,Bangladesh,s19,Cleopatra lived closer to the invention of the iPhone than to the building of the Great Pyramid.,not_funny,No
+resp_46,35,36-45,Male,Black / African,Nigeria,Nigeria,s10,"The inventor of the frisbee was turned into a frisbee. When he died, his ashes were molded into frisbees for his family and friends.",not_funny,No
+resp_14,25,26-35,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",United Kingdom,pakistan,s27,The fingerprints of a koala are so close to humans’ that they can taint crime scenes.,not_funny,No
+resp_48,32,26-35,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",Uk,Bangladesh,s5,"Well its settled then, it's not nearly as fun to hangout in a coffee shop as much as it is in a bar.",funny,Yes
+resp_34,27,26-35,Female,Middle Eastern,Turkey,Turkey,s23,"Bananas are berries, but strawberries aren’t. Botanically speaking, bananas qualify as berries, but strawberries do not.",not_funny,No
+resp_5,20,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s27,The fingerprints of a koala are so close to humans’ that they can taint crime scenes.,not_funny,No
+resp_50,45,46-55,Female,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s2,Next Halloween costume idea: CEO and Head of HR.,dont_understand,I didn't understand the statement
+resp_3,21,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s5,"Well its settled then, it's not nearly as fun to hangout in a coffee shop as much as it is in a bar.",not_funny,No
+resp_43,22,18-25,Female,East Asian,Japan,Japan,s13,"I asked the barber for a ‘short back and sides’, he handed me a copy of The Sun and turned on Coronation Street.",dont_understand,I didn't understand the statement
+resp_47,24,18-25,Female,South Asian,UAE,Pakistan,s1,"Honey never spoils. Archaeologists have found 3,000-year-old honey in Egyptian tombs that’s still edible.",not_funny,No
+resp_19,49,46-55,Female,White / Caucasian,Germany,Germany,s30,I told my computer I needed a break. Now it keeps sending me vacation ads.,not_funny,No
+resp_21,24,18-25,Female,Hispanic / Latino,USA,USA,s16,A statistical correlation without causation is simply a misleading relationship.,not_funny,No
+resp_45,43,36-45,Female,Hispanic / Latino,Spain,Spain,s20,"I asked the librarian if the library had books on paranoia. She whispered, “They’re right behind you.”",not_funny,No
+resp_11,28,26-35,Female,"Middle Eastern / North African (e.g., Arab, Persian, Turkish, Egyptian)",United Kingdom,Turkey,s14,"Octopuses have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",not_funny,No
+resp_43,22,18-25,Female,East Asian,Japan,Japan,s9,Light travels faster than sound. That’s why some people appear bright until you hear them speak.,funny,Yes
+resp_22,32,26-35,Male,White / Caucasian,Australia,Australia,s22,"[closes book, slowly removes glasses, and thoughtfully cleans them with a small cloth] I honestly don't think Waldo is in there",not_funny,No
+resp_33,30,26-35,Male,East Asian,South Korea,South Korea,s6,Went on a date to Wetherspoons. Either I’ve hit rock bottom… or I’ve peaked financially.,dont_understand,I didn't understand
+resp_21,24,18-25,Female,Hispanic / Latino,USA,USA,s1,"Honey never spoils. Archaeologists have found 3,000-year-old honey in Egyptian tombs that’s still edible.",not_funny,No
+resp_30,38,36-45,Female,White / Caucasian,UK,UK,s1,"Honey never spoils. Archaeologists have found 3,000-year-old honey in Egyptian tombs that’s still edible.",not_funny,No
+resp_13,27,26-35,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s27,The fingerprints of a koala are so close to humans’ that they can taint crime scenes.,not_funny,No
+resp_16,19,18-25,Male,Mixed / Multiple ethnic backgrounds,England,England,s4,"Shake it, “the container cam”.",dont_understand,I didn't understand the statement
+resp_10,23,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s16,A statistical correlation without causation is simply a misleading relationship.,funny,Yes
+resp_41,36,36-45,Female,Middle Eastern,France,Algeria,s3,A group of flamingos is called a “flamboyance.”,not_funny,No
+resp_40,24,18-25,Male,South Asian,India,India,s21,"At Manchester airport and just seen a german woman smile to her pals, point out the window at a passing Jet2 plane and say in a strong german accent ""nothing beats a Jet2 holiday"".",not_funny,No
+resp_17,16,18-25,Female,White / Caucasian,UK,UK,s8,"In India, footpaths are for two things: walking and Salman Khan's driving practice.",dont_understand,I didn't understand
+resp_4,22,18-25,Female,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s8,"In India, footpaths are for two things: walking and Salman Khan's driving practice.",funny,Yes
+resp_5,20,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s29,"A bolt of lightning contains enough energy to toast 100,000 slices of bread.",not_funny,No
+resp_49,28,26-35,Female,"Middle Eastern / North African (e.g., Arab, Persian, Turkish, Egyptian)",Germany,Turkey,s14,"Octopuses have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",not_funny,No
+resp_6,24,18-25,Female,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",United Kingdom,India,s14,"Octopuses have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",not_funny,No
+resp_27,63,55+,Male,White / Caucasian,USA,USA,s8,"In India, footpaths are for two things: walking and Salman Khan's driving practice.",dont_understand,I didn't understand
+resp_2,25,26-35,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s28,"Q: Should I have a baby after 35?
+A: No, 35 children is enough.",funny,Yes
+resp_17,16,18-25,Female,White / Caucasian,UK,UK,s17,"Two wrongs don’t make a right, take your parents as an example.",funny,Yes
+resp_39,40,36-45,Non-binary,White / Caucasian,UK,Ireland,s24,The heart of a blue whale is so big that a human can swim through its arteries.,not_funny,No
+resp_33,30,26-35,Male,East Asian,South Korea,South Korea,s13,"I asked the barber for a ‘short back and sides’, he handed me a copy of The Sun and turned on Coronation Street.",funny,Yes
+resp_15,24,18-25,Female,"Hispanic / Latino/a/x (e.g., Mexican, Brazilian, Colombian, Spanish-speaking)",United Kingdom,Colombia,s6,Went on a date to Wetherspoons. Either I’ve hit rock bottom… or I’ve peaked financially.,dont_understand,I didn't understand the statement
+resp_8,24,18-25,Female,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s10,"The inventor of the frisbee was turned into a frisbee. When he died, his ashes were molded into frisbees for his family and friends.",not_funny,No
+resp_51,50,46-55,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s14,"Octopuses have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",not_funny,No
+resp_40,24,18-25,Male,South Asian,India,India,s28,"Q: Should I have a baby after 35?
+A: No, 35 children is enough.",funny,Yes
+resp_14,25,26-35,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",United Kingdom,pakistan,s4,"Shake it, “the container cam”.",dont_understand,I didn't understand the statement
+resp_38,59,55+,Female,Black / African,South Africa,South Africa,s10,"The inventor of the frisbee was turned into a frisbee. When he died, his ashes were molded into frisbees for his family and friends.",not_funny,No
+resp_32,52,46-55,Female,White / Caucasian,UK,UK,s26,"After my youngest daughter fixed my computer, I overheard her talking with one of her friends saying it was just an ""ID ten TerrorÂ”. They both starting laughing. Not wanting to appear dumb, I walked away and wrote down the code. ID10T. She was never my favorite kid anyway.",not_funny,No
+resp_25,39,36-45,Female,White / Caucasian,France,France,s24,The heart of a blue whale is so big that a human can swim through its arteries.,not_funny,No
+resp_1,24,18-25,Female,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",Usa,India,s8,"In India, footpaths are for two things: walking and Salman Khan's driving practice.",not_funny,No
+resp_45,43,36-45,Female,Hispanic / Latino,Spain,Spain,s21,"At Manchester airport and just seen a german woman smile to her pals, point out the window at a passing Jet2 plane and say in a strong german accent ""nothing beats a Jet2 holiday"".",not_funny,No
+resp_1,24,18-25,Female,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",Usa,India,s14,"Octopuses have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",not_funny,No
+resp_23,54,46-55,Female,Black / African,USA,USA,s21,"At Manchester airport and just seen a german woman smile to her pals, point out the window at a passing Jet2 plane and say in a strong german accent ""nothing beats a Jet2 holiday"".",not_funny,No
+resp_51,50,46-55,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s15,I'm on a whiskey diet… I’ve lost three days already.,funny,Yes
+resp_3,21,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s25,"BOSS: tell me about Susanne
+ME: *takes a drag of cigarette* ah, the one that got away
+BOSS: you're a zoo keeper none of them should get away.",funny,Yes
+resp_10,23,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s5,"Well its settled then, it's not nearly as fun to hangout in a coffee shop as much as it is in a bar.",funny,Yes
+resp_19,49,46-55,Female,White / Caucasian,Germany,Germany,s18,"I took my 8-year-old to the office on Take Your Child to Work Day. As we were walking around, she starting crying & getting very cranky, so I asked her what was wrong. As my coworkers gathered round, she sobbed, 'Daddy, where are all the clowns that you said you worked with?'",funny,Yes
+resp_32,52,46-55,Female,White / Caucasian,UK,UK,s11,How do you know if a vampire is unwell? Because he'll be coffin.,not_funny,No
+resp_11,28,26-35,Female,"Middle Eastern / North African (e.g., Arab, Persian, Turkish, Egyptian)",United Kingdom,Turkey,s12,There are more possible iterations of a game of chess than there are atoms in the observable universe.,not_funny,No
+resp_6,24,18-25,Female,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",United Kingdom,India,s17,"Two wrongs don’t make a right, take your parents as an example.",not_funny,No
+resp_17,16,18-25,Female,White / Caucasian,UK,UK,s5,"Well its settled then, it's not nearly as fun to hangout in a coffee shop as much as it is in a bar.",not_funny,No
+resp_20,28,26-35,Male,Black / African,South Africa,South Africa,s22,"[closes book, slowly removes glasses, and thoughtfully cleans them with a small cloth] I honestly don't think Waldo is in there",not_funny,No
+resp_36,29,26-35,Female,White / Caucasian,Canada,Canada,s18,"I took my 8-year-old to the office on Take Your Child to Work Day. As we were walking around, she starting crying & getting very cranky, so I asked her what was wrong. As my coworkers gathered round, she sobbed, 'Daddy, where are all the clowns that you said you worked with?'",funny,Yes
+resp_41,36,36-45,Female,Middle Eastern,France,Algeria,s20,"I asked the librarian if the library had books on paranoia. She whispered, “They’re right behind you.”",not_funny,No
+resp_37,31,26-35,Male,Southeast Asian,Malaysia,Malaysia,s1,"Honey never spoils. Archaeologists have found 3,000-year-old honey in Egyptian tombs that’s still edible.",not_funny,No
+resp_51,50,46-55,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s23,"Bananas are berries, but strawberries aren’t. Botanically speaking, bananas qualify as berries, but strawberries do not.",not_funny,No
+resp_41,36,36-45,Female,Middle Eastern,France,Algeria,s2,Next Halloween costume idea: CEO and Head of HR.,not_funny,No
+resp_28,58,55+,Female,White / Caucasian,Australia,New Zealand,s15,I'm on a whiskey diet… I’ve lost three days already.,funny,Yes
+resp_3,21,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s20,"I asked the librarian if the library had books on paranoia. She whispered, “They’re right behind you.”",not_funny,No
+resp_7,24,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s11,How do you know if a vampire is unwell? Because he'll be coffin.,not_funny,No
+resp_27,63,55+,Male,White / Caucasian,USA,USA,s4,"Shake it, “the container cam”.",not_funny,No
+resp_28,58,55+,Female,White / Caucasian,Australia,New Zealand,s8,"In India, footpaths are for two things: walking and Salman Khan's driving practice.",dont_understand,I didn't understand
+resp_41,36,36-45,Female,Middle Eastern,France,Algeria,s27,The fingerprints of a koala are so close to humans’ that they can taint crime scenes.,not_funny,No
+resp_11,28,26-35,Female,"Middle Eastern / North African (e.g., Arab, Persian, Turkish, Egyptian)",United Kingdom,Turkey,s22,"[closes book, slowly removes glasses, and thoughtfully cleans them with a small cloth] I honestly don't think Waldo is in there",not_funny,No
+resp_40,24,18-25,Male,South Asian,India,India,s14,"Octopuses have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",not_funny,No
+resp_22,32,26-35,Male,White / Caucasian,Australia,Australia,s23,"Bananas are berries, but strawberries aren’t. Botanically speaking, bananas qualify as berries, but strawberries do not.",not_funny,No
+resp_42,50,46-55,Male,White / Caucasian,USA,USA,s14,"Octopuses have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",not_funny,No
+resp_15,24,18-25,Female,"Hispanic / Latino/a/x (e.g., Mexican, Brazilian, Colombian, Spanish-speaking)",United Kingdom,Colombia,s14,"Octopuses have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",not_funny,No
+resp_11,28,26-35,Female,"Middle Eastern / North African (e.g., Arab, Persian, Turkish, Egyptian)",United Kingdom,Turkey,s28,"Q: Should I have a baby after 35?
+A: No, 35 children is enough.",funny,Yes
+resp_46,35,36-45,Male,Black / African,Nigeria,Nigeria,s7,"Q: I'm two months pregnant now. When will my baby move?
+A: With any luck, right after he finishes college.",not_funny,No
+resp_39,40,36-45,Non-binary,White / Caucasian,UK,Ireland,s18,"I took my 8-year-old to the office on Take Your Child to Work Day. As we were walking around, she starting crying & getting very cranky, so I asked her what was wrong. As my coworkers gathered round, she sobbed, 'Daddy, where are all the clowns that you said you worked with?'",funny,Yes
+resp_7,24,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s6,Went on a date to Wetherspoons. Either I’ve hit rock bottom… or I’ve peaked financially.,funny,Yes
+resp_50,45,46-55,Female,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s3,A group of flamingos is called a “flamboyance.”,not_funny,No
+resp_35,48,46-55,Male,Hispanic / Latino,Brazil,Brazil,s9,Light travels faster than sound. That’s why some people appear bright until you hear them speak.,not_funny,No
+resp_2,25,26-35,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s17,"Two wrongs don’t make a right, take your parents as an example.",funny,Yes
+resp_24,22,18-25,Male,Southeast Asian,Singapore,Malaysia,s11,How do you know if a vampire is unwell? Because he'll be coffin.,not_funny,No
+resp_29,53,46-55,Male,Black / African,Nigeria,Nigeria,s29,"A bolt of lightning contains enough energy to toast 100,000 slices of bread.",not_funny,No
+resp_48,32,26-35,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",Uk,Bangladesh,s27,The fingerprints of a koala are so close to humans’ that they can taint crime scenes.,not_funny,No
+resp_35,48,46-55,Male,Hispanic / Latino,Brazil,Brazil,s26,"After my youngest daughter fixed my computer, I overheard her talking with one of her friends saying it was just an ""ID ten TerrorÂ”. They both starting laughing. Not wanting to appear dumb, I walked away and wrote down the code. ID10T. She was never my favorite kid anyway.",dont_understand,I didn't understand the statement
+resp_33,30,26-35,Male,East Asian,South Korea,South Korea,s7,"Q: I'm two months pregnant now. When will my baby move?
+A: With any luck, right after he finishes college.",funny,Yes
+resp_46,35,36-45,Male,Black / African,Nigeria,Nigeria,s21,"At Manchester airport and just seen a german woman smile to her pals, point out the window at a passing Jet2 plane and say in a strong german accent ""nothing beats a Jet2 holiday"".",not_funny,No
+resp_30,38,36-45,Female,White / Caucasian,UK,UK,s5,"Well its settled then, it's not nearly as fun to hangout in a coffee shop as much as it is in a bar.",not_funny,No
+resp_46,35,36-45,Male,Black / African,Nigeria,Nigeria,s5,"Well its settled then, it's not nearly as fun to hangout in a coffee shop as much as it is in a bar.",not_funny,No
+resp_51,50,46-55,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s5,"Well its settled then, it's not nearly as fun to hangout in a coffee shop as much as it is in a bar.",dont_understand,I didn't understand the statement
+resp_15,24,18-25,Female,"Hispanic / Latino/a/x (e.g., Mexican, Brazilian, Colombian, Spanish-speaking)",United Kingdom,Colombia,s3,A group of flamingos is called a “flamboyance.”,not_funny,No
+resp_27,63,55+,Male,White / Caucasian,USA,USA,s12,There are more possible iterations of a game of chess than there are atoms in the observable universe.,not_funny,No
+resp_22,32,26-35,Male,White / Caucasian,Australia,Australia,s29,"A bolt of lightning contains enough energy to toast 100,000 slices of bread.",not_funny,No
+resp_23,54,46-55,Female,Black / African,USA,USA,s28,"Q: Should I have a baby after 35?
+A: No, 35 children is enough.",not_funny,No
+resp_35,48,46-55,Male,Hispanic / Latino,Brazil,Brazil,s8,"In India, footpaths are for two things: walking and Salman Khan's driving practice.",not_funny,No
+resp_5,20,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s14,"Octopuses have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",not_funny,No
+resp_31,47,46-55,Male,Hispanic / Latino,USA,USA,s2,Next Halloween costume idea: CEO and Head of HR.,not_funny,No
+resp_51,50,46-55,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s27,The fingerprints of a koala are so close to humans’ that they can taint crime scenes.,not_funny,No
+resp_41,36,36-45,Female,Middle Eastern,France,Algeria,s17,"Two wrongs don’t make a right, take your parents as an example.",funny,Yes
+resp_3,21,18-25,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s30,I told my computer I needed a break. Now it keeps sending me vacation ads.,funny,Yes
+resp_25,39,36-45,Female,White / Caucasian,France,France,s8,"In India, footpaths are for two things: walking and Salman Khan's driving practice.",dont_understand,I didn't understand
+resp_6,24,18-25,Female,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",United Kingdom,India,s6,Went on a date to Wetherspoons. Either I’ve hit rock bottom… or I’ve peaked financially.,not_funny,No
+resp_49,28,26-35,Female,"Middle Eastern / North African (e.g., Arab, Persian, Turkish, Egyptian)",Germany,Turkey,s17,"Two wrongs don’t make a right, take your parents as an example.",not_funny,No
+resp_50,45,46-55,Female,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s21,"At Manchester airport and just seen a german woman smile to her pals, point out the window at a passing Jet2 plane and say in a strong german accent ""nothing beats a Jet2 holiday"".",dont_understand,I didn't understand the statement
+resp_35,48,46-55,Male,Hispanic / Latino,Brazil,Brazil,s20,"I asked the librarian if the library had books on paranoia. She whispered, “They’re right behind you.”",not_funny,No
+resp_51,50,46-55,Male,"South Asian (e.g., Indian, Pakistani, Bangladeshi, Sri Lankan, Nepali)",India,India,s3,A group of flamingos is called a “flamboyance.”,not_funny,No
+resp_32,52,46-55,Female,White / Caucasian,UK,UK,s17,"Two wrongs don’t make a right, take your parents as an example.",funny,Yes

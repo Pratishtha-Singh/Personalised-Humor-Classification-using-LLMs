@@ -1,0 +1,35 @@
+{
+  "experiment_seed": 42,
+  "class_weights": {
+    "balanced": {
+      "0": 0.5323590814196242,
+      "1": 1.0991379310344827,
+      "2": 4.722222222222222
+    },
+    "none": {
+      "0": 1.0,
+      "1": 1.0,
+      "2": 1.0
+    }
+  },
+  "metrics_config": {
+    "primary_metric": "f1_macro",
+    "calibration_bins": 10,
+    "class_names": [
+      "not_funny",
+      "funny",
+      "dont_understand"
+    ],
+    "positive_class": "funny"
+  },
+  "label_mapping": {
+    "not_funny": 0,
+    "funny": 1,
+    "dont_understand": 2
+  },
+  "evaluation_splits": [
+    "cold_start_user",
+    "new_joke",
+    "random"
+  ]
+}

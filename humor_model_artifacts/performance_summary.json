@@ -1,0 +1,32 @@
+{
+  "model_type": "Text + Demographics Logistic Regression with Platt Calibration",
+  "feature_count": 119,
+  "training_data_size": 1530,
+  "unique_respondents": 51,
+  "unique_jokes": 30,
+  "class_distribution": {
+    "not_funny": 958,
+    "funny": 464,
+    "dont_understand": 108
+  },
+  "split_performance": {
+    "cold_start_user": {
+      "accuracy": 0.6866666666666666,
+      "f1_macro": 0.49066666666666664,
+      "ece": 0.0974860559254785,
+      "calibration_quality": "Good"
+    },
+    "new_joke": {
+      "accuracy": 0.6503267973856209,
+      "f1_macro": 0.3107939142461964,
+      "ece": 0.15575701951627666,
+      "calibration_quality": "Moderate"
+    },
+    "random": {
+      "accuracy": 0.6895424836601307,
+      "f1_macro": 0.5438854181334005,
+      "ece": 0.08114595991415742,
+      "calibration_quality": "Good"
+    }
+  }
+}

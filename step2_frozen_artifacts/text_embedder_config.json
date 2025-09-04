@@ -1,0 +1,22 @@
+{
+  "method": "TF-IDF",
+  "vectorizer_type": "sklearn.feature_extraction.text.TfidfVectorizer",
+  "max_features": 100,
+  "stop_words": "english",
+  "ngram_range": [
+    1,
+    2
+  ],
+  "min_df": 1,
+  "max_df": 1.0,
+  "sublinear_tf": true,
+  "text_features": [
+    "word_count",
+    "char_count",
+    "avg_word_length",
+    "sentence_count",
+    "exclamation_count"
+  ],
+  "total_text_features": 105,
+  "input_column": "joke_text"
+}

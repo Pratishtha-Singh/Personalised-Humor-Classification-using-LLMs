@@ -1,0 +1,45 @@
+{
+  "label_map": {
+    "yes": "funny",
+    "y": "funny",
+    "no": "not_funny",
+    "n": "not_funny",
+    "dont_understand": "dont_understand",
+    "unknown": "unknown"
+  },
+  "age_bins": {
+    "bins": [
+      0,
+      25,
+      35,
+      45,
+      55,
+      100
+    ],
+    "labels": [
+      "18-25",
+      "26-35",
+      "36-45",
+      "46-55",
+      "55+"
+    ]
+  },
+  "text_features": {
+    "tfidf_max_features": 100,
+    "stop_words": "english",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "min_df": 2
+  },
+  "demographic_features": {
+    "top_ethnicities_count": 5,
+    "handle_unknown": "ignore"
+  },
+  "target_classes": [
+    "funny",
+    "not_funny",
+    "dont_understand"
+  ]
+}

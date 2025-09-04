@@ -1,0 +1,51 @@
+{
+  "total_samples": 51,
+  "unique_users": 0,
+  "unique_jokes": 0,
+  "response_distribution": {
+    "not_funny": 0,
+    "funny": 0
+  },
+  "columns": [
+    "Your Age:\nPlease only write the number",
+    "Your Gender:",
+    "Country of Residence:",
+    "Country of Birth:",
+    "Ethnic or Cultural Background",
+    "s1: Honey never spoils. Archaeologists have found 3,000-year-old honey in Egyptian tombs that\u2019s still edible.",
+    "s2: Next Halloween costume idea: CEO and Head of HR.\n",
+    "s3: A group of flamingos is called a \u201cflamboyance.\u201d",
+    "s4: Shake it, \u201cthe container cam\u201d.\n",
+    "s5: Well its settled then, it's not nearly as fun to hangout in a coffee shop as much as it is in a bar.\n\n",
+    "s6: Went on a date to Wetherspoons. Either I\u2019ve hit rock bottom\u2026 or I\u2019ve peaked financially.\n\n",
+    "s7: Q: I'm two months pregnant now. When will my baby move?\nA: With any luck, right after he finishes college. \n",
+    "s8: In India, footpaths are for two things: walking and Salman Khan's driving practice.\n",
+    "s9: Light travels faster than sound. That\u2019s why some people appear bright until you hear them speak.\n\n",
+    "s10: The inventor of the frisbee was turned into a frisbee. When he died, his ashes were molded into frisbees for his family and friends.",
+    "s11: How do you know if a vampire is unwell? Because he'll be coffin.\n\n",
+    "s12: There are more possible iterations of a game of chess than there are atoms in the observable universe.",
+    "s13: I asked the barber for a \u2018short back and sides\u2019, he handed me a copy of The Sun and turned on Coronation Street.\n\n ",
+    "s14: Octopuses have three hearts: two pump blood to the gills, and one pumps it to the rest of the body.",
+    "s15: I'm on a whiskey diet\u2026 I\u2019ve lost three days already.\n\n",
+    "s16: A statistical correlation without causation is simply a misleading relationship.\n\n",
+    "s17: Two wrongs don\u2019t make a right, take your parents as an example.\n",
+    "s18: I took my 8-year-old to the office on Take Your Child to Work Day. As we were walking around, she starting crying & getting very cranky, so I asked her what was wrong. As my coworkers gathered round, she sobbed, 'Daddy, where are all the clowns that you said you worked with?'\n\n",
+    "s19: Cleopatra lived closer to the invention of the iPhone than to the building of the Great Pyramid.",
+    "s20: I asked the librarian if the library had books on paranoia. She whispered, \u201cThey\u2019re right behind you.\u201d\n",
+    "s21: At Manchester airport and just seen a german woman smile to her pals, point out the window at a passing Jet2 plane and say in a strong german accent \"nothing beats a Jet2 holiday\". \n\n",
+    "s22: [closes book, slowly removes glasses, and thoughtfully cleans them with a small cloth] I honestly don't think Waldo is in there\n",
+    "s23: Bananas are berries, but strawberries aren\u2019t. Botanically speaking, bananas qualify as berries, but strawberries do not.",
+    "s24: The heart of a blue whale is so big that a human can swim through its arteries.",
+    "s25: BOSS: tell me about Susanne\nME: *takes a drag of cigarette* ah, the one that got away\nBOSS: you're a zoo keeper none of them should get away.\n\n",
+    "s26: After my youngest daughter fixed my computer, I overheard her talking with one of her friends saying it was just an \"ID ten Terror\u00c2\u201d. They both starting laughing. Not wanting to appear dumb, I walked away and wrote down the code. ID10T. She was never my favorite kid anyway.\n\n",
+    "s27: The fingerprints of a koala are so close to humans\u2019 that they can taint crime scenes.",
+    "s28: Q: Should I have a baby after 35?\nA: No, 35 children is enough.\n\n",
+    "s29: A bolt of lightning contains enough energy to toast 100,000 slices of bread.",
+    "s30: I told my computer I needed a break. Now it keeps sending me vacation ads.\n\n"
+  ],
+  "data_shape": [
+    51,
+    35
+  ],
+  "target_column": null
+}
