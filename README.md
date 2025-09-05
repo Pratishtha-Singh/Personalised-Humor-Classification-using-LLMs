@@ -2,7 +2,7 @@
 
 A comprehensive machine learning project for personalised humor classification that predicts how individuals perceive jokes based on demographic context. The system classifies jokes into three categories: **funny**, **not_funny**, or **don't_understand**, considering user demographics (age, gender, ethnicity).
 
-## 🎯 Project Overview
+## Project Overview
 
 This project implements multiple approaches to humor classification, from traditional machine learning baselines to advanced transformer models and large language models (LLMs). The goal is to create a personalized humor recommendation system that understands individual preferences and cultural contexts.
 
@@ -15,7 +15,7 @@ This project implements multiple approaches to humor classification, from tradit
 - **Calibrated Predictions**: Uncertainty-aware outputs
 - **Interactive Dashboard**: Streamlit-based visualization and testing interface
 
-## 📊 Dataset
+## Dataset
 
 The project uses a curated humor dataset containing:
 - **Joke texts** from various sources and cultures
@@ -23,7 +23,7 @@ The project uses a curated humor dataset containing:
 - **Response labels** (funny/not_funny/don't_understand)
 - **Cross-cultural representation** for diverse humor understanding
 
-## 🏗️ Model Architectures
+## Model Architectures
 
 ### 1. Baseline Models
 - **TF-IDF + Logistic Regression**: Traditional NLP approach
@@ -43,7 +43,7 @@ The project uses a curated humor dataset containing:
 - **Calibrated Outputs**: Uncertainty quantification
 - **Ensemble Methods**: Leverages strengths of different approaches
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── base1_model_building.ipynb          # Baseline model development
@@ -62,7 +62,7 @@ The project uses a curated humor dataset containing:
 └── frozen_baseline_splits/             # Baseline evaluation data
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -96,7 +96,7 @@ pip install google-genai  # For Gemini model
    streamlit run humor_dashboard.py
    ```
 
-## 📈 Model Performance
+## Model Performance
 
 The project includes comprehensive evaluation across multiple metrics:
 
@@ -111,15 +111,14 @@ The project includes comprehensive evaluation across multiple metrics:
 - Gemini LLM: Competitive few-shot performance
 - Meta Pipeline: Best overall performance through ensemble
 
-## 🎨 Interactive Features
+## Interactive Features
 
 ### Streamlit Dashboard
-- **Real-time Prediction**: Input jokes and demographics for instant classification
 - **Model Comparison**: Side-by-side evaluation of different approaches
 - **Visualization**: Performance metrics and prediction distributions
 - **Explainability**: Feature importance and attention visualization
 
-## 🔬 Technical Highlights
+##  Technical Highlights
 
 ### Advanced Techniques
 - **LoRA Fine-tuning**: Efficient adaptation of large language models
@@ -133,7 +132,7 @@ The project includes comprehensive evaluation across multiple metrics:
 - **Statistical Testing**: Significance testing for model comparisons
 - **Error Analysis**: Deep dive into model failures and biases
 
-## 📋 Future Work
+## Future Work
 
 - **Multi-modal Integration**: Incorporate visual humor (memes, comics)
 - **Temporal Dynamics**: Account for changing humor preferences over time
@@ -141,30 +140,28 @@ The project includes comprehensive evaluation across multiple metrics:
 - **Cultural Adaptation**: Fine-tune for specific cultural groups
 - **Real-time Learning**: Adapt to user feedback dynamically
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📚 Citation
+## Citation
 
 If you use this work in your research, please cite:
 
 ```bibtex
 @misc{personalised_humor_classification,
   title={Personalised Humor Classification using Large Language Models},
-  author={Your Name},
+  author={Pratishtha Singh},
   year={2025},
   url={https://github.com/Pratishtha-Singh/Personalised-Humor-Classification-using-LLMs}
 }
 ```
 
-## 📞 Contact
 
-For questions or collaborations, please reach out through GitHub issues or contact the repository owner.
 
 ---
 
